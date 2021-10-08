@@ -1,4 +1,4 @@
-# Jarvis-artificial-intelligence
+#Jarvis-Artificial-Intelligence
 Jarvis is a personal assistant made using Python.
 It is coded in a structured way so that you can easily understaind and modify the code for your needs. 
 I only tested Jarvis on windows, but it should run on other operating systems if the required modules are installed.
